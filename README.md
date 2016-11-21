@@ -4,7 +4,7 @@ My slides and jupyter notebook for my random walk on physics talk on neural netw
   - You can download as zip from github
   - Using the command line: ````git clone https://github.com/lsgos/RWOP````
   
-To run and view the ipython notebook (ipnb) file requires [jupyter](http://jupyter.org/): you can get this by
+To run and view the ipython notebook (ipynb) file requires [jupyter](http://jupyter.org/): you can get this by
   - using pip: ````pip install jupyter````
   - Installing [anaconda](https://www.continuum.io/downloads), which will come with jupyter.
   
